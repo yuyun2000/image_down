@@ -42,6 +42,8 @@ data2.jpg,关键词A,关键词B
 项目根目录/
 ├── images/      # 存放所有图片
 ├── search.py    # 主程序
+├── down.py    # 从网页爬取图片
+├── gemini_img_cap.py    # 使用gemini对图片进行描述
 └── image_keywords.csv  # 关键词数据
 ```
 # TODO
