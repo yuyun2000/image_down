@@ -17,8 +17,8 @@ driver = webdriver.Chrome(options=chrome_options)
 
 print("Set up the Selenium WebDriver")
 # URL of the website
-url = "https://mp.weixin.qq.com/s/3Fo1eVQ5MYTiSt2aNY0Kyg"
-name = "data10"
+url = "https://500px.com.cn/community/set/fe124cfe5b0e4740853c35f99bdb26fb/details?swipe=1&rs=240e3e1b34b008b2809fda2e60f209365"
+name = "data11"
 
 # Open the URL
 driver.get(url)
