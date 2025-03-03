@@ -25,7 +25,7 @@
 ### 快速开始
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/image-search-system.git
+git clone https://github.com/yuyun2000/take-a-good-photo.git
 
 # 安装依赖
 pip install streamlit pandas pillow
